@@ -22,9 +22,8 @@
 </div>
 
 ###
-<div align="center">
-  <img height="300" src="https://ibb.co/ckQwHfn"  />
-</div>
+
+[![An image of @thinkofyashh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thinkofyashh)](https://holopin.io/@thinkofyashh)
 
 ###
 
