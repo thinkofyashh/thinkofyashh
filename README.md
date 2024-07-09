@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Yash Rawat and I'm a Software Engineer, from New Delhi.</h2>
+<h2 align="center">Hi 👋! My name is Yash Rawat</h2>
 
 ###
 
