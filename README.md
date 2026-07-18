@@ -71,8 +71,16 @@ Building dependable software and exploring how intelligent systems work end to e
 ## GitHub activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thinkofyashh&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="Yash Rawat's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thinkofyashh&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most used languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thinkofyashh&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thinkofyashh&theme=github" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thinkofyashh&theme=github" alt="Yash Rawat's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinkofyashh&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinkofyashh&theme=github" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinkofyashh&theme=github" alt="Most used languages" />
+  </picture>
 </div>
 
 <div align="center">
