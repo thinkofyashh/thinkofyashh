@@ -1,116 +1,89 @@
-<h2 align="center">Hi 👋! My name is Yash Rawat</h2>
+<div align="center">
 
-###
+# Hi, I'm Yash Rawat 👋
 
-<p align="left">- Full stack web developer.<br><br>- Flutter enthusiast for app development.<br><br>- Aspiring software engineer.<br><br>- Fun fact: I play the Super Cricket game a lot.</p>
+### Software Development Engineer at Samsung Electronics
 
-###
+Building dependable software and exploring how intelligent systems work end to end.
 
-<div align="left">
-  <a href="yashrawat682@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yash-rawat-718517224/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/22416826/yash-rawat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://x.com/thinkofyash04" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-rawat-718517224/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashrawat682@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thinkofyash04)
+
+![Profile views](https://komarev.com/ghpvc/?username=thinkofyashh&label=Profile%20views&color=2563eb&style=flat)
+
 </div>
 
-###
+## About me
 
-[![An image of @thinkofyashh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thinkofyashh)](https://holopin.io/@thinkofyashh)
+- 💼 I work as a **Software Development Engineer at Samsung Electronics**.
+- 🧠 I'm learning about **AI agents, agentic workflows, retrieval-augmented generation (RAG), and the systems around them**.
+- 🛠️ I enjoy building full-stack products, backend services, automation, and developer-focused tools.
+- ⚙️ I'm interested in concurrency, scalable systems, clean architecture, and dependable engineering.
+- 📚 I learn by building projects, documenting concepts, and turning ideas into working software.
 
-###
+## What I'm exploring
+
+| Area                     | Current interests                                                             |
+| ------------------------ | ----------------------------------------------------------------------------- |
+| **AI agents**            | Tool use, planning, memory, orchestration, and multi-step execution           |
+| **RAG**                  | Retrieval pipelines, embeddings, context design, and grounded responses       |
+| **Workflows**            | Reliable automation, human-in-the-loop systems, observability, and evaluation |
+| **Software engineering** | Backend architecture, concurrency, performance, testing, and maintainability  |
+
+## Selected work
+
+- **[Learnly](https://github.com/thinkofyashh/learnly)** — An intelligent learning library for uploading, analyzing, organizing, previewing, and sharing notes and educational PDFs.
+- **[CodeLens AI](https://github.com/thinkofyashh/CodeLens-AI)** — An AI-powered API that explains code, identifies bugs, and suggests improvements using FastAPI and LangChain.
+- **[TriThread S&P Fetcher](https://github.com/thinkofyashh/TriThread-S-P-Fetcher)** — A multithreaded market-data project focused on parallel processing, web scraping, and data persistence.
+- **[Race Condition Adventures](https://github.com/thinkofyashh/RaceConditionAdventures)** — Notes, examples, and experiments covering multithreading, synchronization, locks, deadlocks, and race conditions.
+
+## Technology toolkit
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### Web, mobile, and backend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Data and engineering tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+## GitHub activity
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif"  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thinkofyashh&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="Yash Rawat's GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thinkofyashh&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most used languages" />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Stack Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge" height="30" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge" height="30" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-</div>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thinkofyashh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thinkofyashh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/thinkofyashh/thinkofyashh/output/snake.svg" alt="GitHub contribution snake animation" />
 </div>
 
-###
+## Let's connect
 
-<br clear="both">
+I'm always interested in discussing software engineering, AI systems, useful developer tools, and practical ideas worth building.
 
-<img src="https://raw.githubusercontent.com/thinkofyashh/thinkofyashh/output/snake.svg" alt="Snake animation" />
-
-
-###
+- [LinkedIn](https://www.linkedin.com/in/yash-rawat-718517224/)
+- [Stack Overflow](https://stackoverflow.com/users/22416826/yash-rawat)
+- [X](https://x.com/thinkofyash04)
+- [Email](mailto:yashrawat682@gmail.com)
